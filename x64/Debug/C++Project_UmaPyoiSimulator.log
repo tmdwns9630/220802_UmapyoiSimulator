@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\SJ\source\repos\C++Project_UmaPyoiSimulator (2)\main.cpp(117,14): warning C4101: 'expn' :참조되지 않은 지역 변수입니다.
+  C++Project_UmaPyoiSimulator.vcxproj -> C:\Users\SJ\source\repos\C++Project_UmaPyoiSimulator (2)\x64\Debug\C++Project_UmaPyoiSimulator.exe
